@@ -845,7 +845,9 @@ export default function Home() {
               </div>
 
               <div className="space-y-8">
-                <p> eu imagino, realmente fazia tempo que eu não mandava assim.., e também sentia falta disso.., fico feliz que não seja chato.. e saber que ficou feliz ao acordar e ter foto me alegra demais.. você merece tanto amor..
+                  <p
+                  className="relative rounded-[1.5rem] border border-rose-100/80 bg-white/90 p-7 text-[16px] leading-8 text-slate-600 shadow-[0_12px_40px_rgba(15,23,42,0.045)] backdrop-blur-sm transition-all duration-300 before:absolute before:-top-3 before:left-7 before:flex before:h-7 before:w-7 before:items-center before:justify-center before:rounded-full before:border before:border-rose-100 before:bg-rose-50 before:text-sm before:text-rose-400 before:content-['♡'] hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(15,23,42,0.08)] md:p-10 md:text-[17px]"
+                > eu imagino, realmente fazia tempo que eu não mandava assim.., e também sentia falta disso.., fico feliz que não seja chato.. e saber que ficou feliz ao acordar e ter foto me alegra demais.. você merece tanto amor..
                   sabemos que está, por mais que não seja exatamente comigo, eu vivo isso com você.. é bom saber que sou uma boa lembrança, que minha presença te faz bem..
                   eu senti exatamente isso hoje, quando falei que não estava bem e você ainda não tinha voltado, foi seu vídeo cantando que me acalmou, que me fez bem e lembrar de vários momentos ao seu lado.., sinto muita falta disso..
                   eu tmb te amo, amo ser amada por você e que bom que temos o privilégio de ter um ao outro.. são esses sentimentos e certezas que eu me refiro quando pergunto “oq foi?”, justamente para entender e receber todo o amor que me entrega de forma única..
@@ -859,7 +861,9 @@ export default function Home() {
               </div>
 
               <div className="space-y-8">
-                <p>dormiu né..
+                <p
+                  className="relative rounded-[1.5rem] border border-rose-100/80 bg-white/90 p-7 text-[16px] leading-8 text-slate-600 shadow-[0_12px_40px_rgba(15,23,42,0.045)] backdrop-blur-sm transition-all duration-300 before:absolute before:-top-3 before:left-7 before:flex before:h-7 before:w-7 before:items-center before:justify-center before:rounded-full before:border before:border-rose-100 before:bg-rose-50 before:text-sm before:text-rose-400 before:content-['♡'] hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(15,23,42,0.08)] md:p-10 md:text-[17px]"
+                >dormiu né..
                   bom, quero te desejar uma ótima noite, um ótimo descanso e excelente sonhos(se possível, sonhe comigo, sonhe com a gente)..
                   muito obrigada por tudo,  saiba que tenho muito orgulho de você e que já estou com saudades.. :)
                   eu te amo nem, e estou aqui.. se cuida, por favor, e não tome tantos remédios viu?!
@@ -867,7 +871,9 @@ export default function Home() {
               </div>
 
               <div className="space-y-8">
-                <p>eu te amo tanto nem, e sim muito além do que eu poderia imaginar.. te amar se tornou a única coisa que ainda faz sentido para mim, se tornou a melhor parte de viver porq é por/pra você..
+                <p
+                  className="relative rounded-[1.5rem] border border-rose-100/80 bg-white/90 p-7 text-[16px] leading-8 text-slate-600 shadow-[0_12px_40px_rgba(15,23,42,0.045)] backdrop-blur-sm transition-all duration-300 before:absolute before:-top-3 before:left-7 before:flex before:h-7 before:w-7 before:items-center before:justify-center before:rounded-full before:border before:border-rose-100 before:bg-rose-50 before:text-sm before:text-rose-400 before:content-['♡'] hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(15,23,42,0.08)] md:p-10 md:text-[17px]"
+                >eu te amo tanto nem, e sim muito além do que eu poderia imaginar.. te amar se tornou a única coisa que ainda faz sentido para mim, se tornou a melhor parte de viver porq é por/pra você..
                   e quero sim continuar fazendo isso todos os dias da minha vida, da melhor maneira/forma para você e por nós..
                   os meus também, como sempre disse você sempre trouxe cor aos meus dias, e ultimamente eu tenho dito muitos momentos cinzas.. mas quando vens tudo se transforma em um belo ambiente colorido e alegre.. e como diz o pequeno príncipe “Se tu vens, por exemplo, às quatro da tarde, desde as três eu começarei a ser feliz. Quanto mais a hora for chegando, mais eu me sentirei feliz. Às quatro horas, estarei inquieto e agitado: descobrirei o preço da felicidade! Mas se tu vens a qualquer momento, nunca saberei a hora de preparar o coração.” E viver ao seu lado, e viver exatamente esse trecho e não somente ao ir te encontrar, mas ao receber uma mensagem/foto/audio/ligação.. a minha felicidade é você, Isaac.
                   e realmente nem, nada mais faz sentido se não for para você, e tudo oq faço ao decorrer do meu dia é pensando em você..
@@ -903,7 +909,10 @@ export default function Home() {
               </div>
 
               <div className="space-y-8">
-                <p>tem mais de 24h que não tenho noticias suas.. é muito agonizante isso, nem..
+                <p
+                  className="relative rounded-[1.5rem] border border-rose-100/80 bg-white/90 p-7 text-[16px] leading-8 text-slate-600 shadow-[0_12px_40px_rgba(15,23,42,0.045)] backdrop-blur-sm transition-all duration-300 before:absolute before:-top-3 before:left-7 before:flex before:h-7 before:w-7 before:items-center before:justify-center before:rounded-full before:border before:border-rose-100 before:bg-rose-50 before:text-sm before:text-rose-400 before:content-['♡'] hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(15,23,42,0.08)] md:p-10 md:text-[17px]"
+                >
+                  tem mais de 24h que não tenho noticias suas.. é muito agonizante isso, nem..
                   espero de coração q esteja um pouco melhor, que se alimente e tome alguma coisa..
                   por favor, vai se cuidando e precisando de qualquer coisa sabe que estou aqui..
                   quando quiser voltar, me chama viu?!
@@ -912,7 +921,10 @@ export default function Home() {
               </div>
 
               <div className="space-y-8">
-                <p> isso parece tanto uma “última conversa”..
+                <p
+                  className="relative rounded-[1.5rem] border border-rose-100/80 bg-white/90 p-7 text-[16px] leading-8 text-slate-600 shadow-[0_12px_40px_rgba(15,23,42,0.045)] backdrop-blur-sm transition-all duration-300 before:absolute before:-top-3 before:left-7 before:flex before:h-7 before:w-7 before:items-center before:justify-center before:rounded-full before:border before:border-rose-100 before:bg-rose-50 before:text-sm before:text-rose-400 before:content-['♡'] hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(15,23,42,0.08)] md:p-10 md:text-[17px]"
+                >
+                  isso parece tanto uma “última conversa”..
                   ouvirei sim suas indicações, apesar de ouvir Lisboa e de janeiro a janeiro todos os dias pensando em você/nós.. nem, eu quero ficar e permanecer com você e ao seu lado..
                   e apesar de talvez não querer tal resposta, você ainda quer namorar comigo? ainda quer continuar?
                   sei que temos modos/jeitos diferentes, assim como qualquer casal, mas como viveremos/lidaremos?
@@ -924,7 +936,10 @@ export default function Home() {
               </div>
 
               <div className="space-y-8">
-                <p>sabe, eu realmente queria ter te visto hoje, não só pelo fato de estar indo viajar amanhã, mas por sentir sua falta. queria ter ficado com você como ficamos no nosso último encontro, me sentir bem novamente ao seu lado e poder cuidar de você..
+                <p
+                  className="relative rounded-[1.5rem] border border-rose-100/80 bg-white/90 p-7 text-[16px] leading-8 text-slate-600 shadow-[0_12px_40px_rgba(15,23,42,0.045)] backdrop-blur-sm transition-all duration-300 before:absolute before:-top-3 before:left-7 before:flex before:h-7 before:w-7 before:items-center before:justify-center before:rounded-full before:border before:border-rose-100 before:bg-rose-50 before:text-sm before:text-rose-400 before:content-['♡'] hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(15,23,42,0.08)] md:p-10 md:text-[17px]"
+                >
+                  sabe, eu realmente queria ter te visto hoje, não só pelo fato de estar indo viajar amanhã, mas por sentir sua falta. queria ter ficado com você como ficamos no nosso último encontro, me sentir bem novamente ao seu lado e poder cuidar de você..
                   como você mesmo disse, nunca sabemos quando será um adeus. e eu sempre tive receio de pegar estrada estando “diferente” com alguém, seja com meus pais, meus irmãos e, hoje, principalmente com você. já viajei muito e presenciei tantos acidentes e mortes que carrego comigo o medo de não voltar para casa, de não voltar para quem amo e para quem me quer bem.
                   eu temo, sim, a morte, não pelo que vem depois, mas por pensar em quem fica e na dor que precisa enfrentar. perder alguém dessa forma é o tipo de dor que não passa, e não, o tempo não diminui o luto.. foi exatamente nisso que pensei naquela noite no cemitério, e foi por isso que chorei. eu já perdi alguém estando “brigada” e, tudo bem, eu era apenas uma criança, não tinha a compreensão que tenho hoje, mas, até hoje, me culpo e carrego isso comigo. talvez seja por isso que me dói tanto ver você visitando esses lugares com tanta frequência ou, às vezes, não se importando tanto com a própria vida.
                   eu ligo, eu me importo e me preocupo com você. sei que você tem seu jeito e que, às vezes, gosta de se isolar de todos, e eu respeito isso. mas, se for se afastar até mesmo de mim, peço que ao menos, me dê notícias de hora em hora. me permita saber que você está bem, nem que seja com o mínimo. para mim, isso tem um valor enorme e você sabe disso.. quando não tenho notícias suas, confesso que minha mente se torna um lugar difícil de suportar, porque o medo e os pensamentos acabam tomando conta de mim..
@@ -935,7 +950,9 @@ export default function Home() {
               </div>
 
               <div className="space-y-8">
-                <p> 
+                <p
+                  className="relative rounded-[1.5rem] border border-rose-100/80 bg-white/90 p-7 text-[16px] leading-8 text-slate-600 shadow-[0_12px_40px_rgba(15,23,42,0.045)] backdrop-blur-sm transition-all duration-300 before:absolute before:-top-3 before:left-7 before:flex before:h-7 before:w-7 before:items-center before:justify-center before:rounded-full before:border before:border-rose-100 before:bg-rose-50 before:text-sm before:text-rose-400 before:content-['♡'] hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(15,23,42,0.08)] md:p-10 md:text-[17px]"
+                >
                   estão limpos..
                   acabei de tomar banho agora e resolver um pouco sobre meu dia de trabalho, nem chegou e sei que terei muita demanda.. espero que dê certo e de qualquer forma as 17h meu pai me busca, então sei que só preciso aguentar até as 16:45 kkk
                   sinto falta de conversar com você..
